@@ -9,3 +9,6 @@ A remastered version of a mobile game I created a long time ago.
 - Open the project in any version of Unity > v2017.1
 - The engine will automatically rebuild the asset database and library folders, dont worry about this and just let it do its thing.
 - Let the project compile and you should be good to go!
+
+### Side Note:
+- All my scripts are in the Assets/My Scripts/ directory.
