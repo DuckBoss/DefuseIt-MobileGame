@@ -12,3 +12,4 @@ A remastered version of a mobile game I created a long time ago.
 
 ### Side Note:
 - All my scripts are in the Assets/My Scripts/ directory.
+- This project is written in C# and uses Mono to port to Android/iOS
